@@ -1,0 +1,47 @@
+{
+  "name": "cra-template-reactking",
+  "version": "0.1.0",
+  "scripts": {
+    "analyze": "source-map-explorer 'build/static/js/*.js'",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "redux",
+    "reduxjs",
+    "react-redux",
+    "reselect"
+  ],
+  "description": "My favorites in a boiler plate skipping package",
+  "main":"template.json",
+  "license":"MIT",
+  "engines": {
+    "node":">=14.0"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "@types/lodash": "^4.14.168",
+    "@types/node": "^12.19.15",
+    "@types/react": "^17.0.1",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-redux": "^7.1.16",
+    "customize-cra": "^1.0.0",
+    "eslint": "^7.19.0",
+    "less-loader": "^8.0.0",
+    "node-sass": "^5.0.0",
+    "prettier": "^2.2.1",
+    "react-app-rewired": "^2.1.8",
+    "source-map-explorer": "^2.5.2",
+    "tslint": "^6.1.3",
+    "tslint-react": "^5.0.0"
+  }
+}
