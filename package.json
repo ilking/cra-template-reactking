@@ -18,10 +18,10 @@
     "reselect"
   ],
   "description": "My favorites in a boiler plate skipping package",
-  "main":"template.json",
-  "license":"MIT",
+  "main": "template.json",
+  "license": "MIT",
   "engines": {
-    "node":">=14.0"
+    "node": ">=14.0"
   },
   "files": [
     "template",
