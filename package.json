@@ -23,10 +23,6 @@
   "engines": {
     "node": ">=14.0"
   },
-  "np": {
-    "tests": false,
-    "yarn": false
-  },
   "files": [
     "template",
     "template.json"
